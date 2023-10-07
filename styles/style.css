@@ -1,13 +1,20 @@
-p {
-    color:blue;
-    font-family: Arial, Helvetica, sans-serif;
-    
+.important {
+    width: 110%;
+    height: 110%;
 }
-/* 
-title {
-    display:
-} */
 
-/* body {
-    background-color: azure;
-} */
+.lemao {
+
+    background-image: url('suibackground.img');
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+img {
+    width: 20%;
+    height: 20%;
+    align-self: center;
+
+}
